@@ -26,7 +26,7 @@ The simulator is built on top of [PyBullet](https://pybullet.org/wordpress/) and
 
 ## Citation
 
-If you use this code or checkpoints, please cite:
+If you use this work, please cite:
 
 ```
 @inproceedings{
