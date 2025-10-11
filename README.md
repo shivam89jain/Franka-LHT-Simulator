@@ -20,3 +20,21 @@ The simulator is built on top of [PyBullet](https://pybullet.org/wordpress/) and
    ```bash
    git clone https://github.com/<your-username>/Franka-LHT-Simulator.git
    cd Franka-LHT-Simulator
+
+
+---
+
+## Citation
+
+If you use this code or checkpoints, please cite:
+
+```
+@inproceedings{
+                jain2025enabling,
+                title={Enabling Long(er) Horizon Imitation for Manipulation Tasks by Modeling Subgoal Transitions},
+                author={Shivam Jain and Sachit Sachdeva and Rohan Paul},
+                booktitle={9th Annual Conference on Robot Learning},
+                year={2025},
+                url={https://openreview.net/forum?id=fBRqCMqVyS}
+                }
+```
