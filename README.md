@@ -18,7 +18,7 @@ The simulator is built on top of [PyBullet](https://pybullet.org/wordpress/) and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Franka-LHT-Simulator.git
+   git clone https://github.com/shivam89jain/Franka-LHT-Simulator.git
    cd Franka-LHT-Simulator
 
 
